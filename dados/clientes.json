@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "cpf": "111.222.333-44",
+        "nome": "Osmar Motta"
+    },
+    {
+        "id": 2,
+        "cpf": "111.222.111-00",
+        "nome": "Rolando da Rocha"
+    },
+    {
+        "id": 3,
+        "cpf": "111.222.222-22",
+        "nome": "Jacinto Penna"
+    }
+]
